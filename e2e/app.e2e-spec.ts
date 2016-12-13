@@ -1,10 +1,10 @@
-import { AngularTeslaRangeCalculatorPage } from './app.po';
+import { AngularTeslaPage } from './app.po';
 
-describe('angular-tesla-range-calculator App', function() {
-  let page: AngularTeslaRangeCalculatorPage;
+describe('angular-tesla App', function() {
+  let page: AngularTeslaPage;
 
   beforeEach(() => {
-    page = new AngularTeslaRangeCalculatorPage();
+    page = new AngularTeslaPage();
   });
 
   it('should display message saying app works', () => {

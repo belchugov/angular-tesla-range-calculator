@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class AngularTeslaRangeCalculatorPage {
+export class AngularTeslaPage {
   navigateTo() {
     return browser.get('/');
   }
