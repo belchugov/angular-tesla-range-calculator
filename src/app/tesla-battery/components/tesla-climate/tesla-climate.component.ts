@@ -67,5 +67,4 @@ export class TeslaClimateComponent implements ControlValueAccessor {
     this.focused = value;
     this.onTouch();
   }
-
 }
