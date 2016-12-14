@@ -17,4 +17,4 @@ This demo is done using @toddmotto [tutorial](https://toddmotto.com/building-tes
 
 * Add unit tests
 * Add end to end tests
-* 
+* Add option to change to [CI system](https://en.wikipedia.org/wiki/International_System_of_Units)
